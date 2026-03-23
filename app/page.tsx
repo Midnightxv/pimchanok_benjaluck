@@ -13,11 +13,15 @@ function Hompage() {
         <br></br>
         <a href="/count">บทเรียนที่2 State ของการเพิ่มลดตัวเลข</a>
         <br></br>
-        <a href="/count">บทเรียนที่3 Show/Hide message</a>
+        <a href="/message">บทเรียนที่3 Show/Hide message</a>
         <br></br>
-        <a href="/count">บทเรียนที่4 Jikan API</a>
+        <a href="/jikan">บทเรียนที่4 Jikan API</a>
+        <br></br>
+        <a href="/gamePlay">บทเรียนที่5 Game API</a>
+        <br></br>
+        <a href="/newspaper">บทเรียนที่6 newpaper</a>
+        </div>  
       </div>
-    </div>
   );
 }
 
