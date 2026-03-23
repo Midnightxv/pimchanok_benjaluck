@@ -13,7 +13,7 @@ function Hompage() {
         <br></br>
         <a href="/count">บทเรียนที่2 State ของการเพิ่มลดตัวเลข</a>
         <br></br>
-        <a href="/message">บทเรียนที่3 Show/Hide message</a>
+        <a href="/form">บทเรียนที่3 Show/Hide message</a>
         <br></br>
         <a href="/jikan">บทเรียนที่4 Jikan API</a>
         <br></br>

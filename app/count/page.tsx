@@ -11,10 +11,10 @@ function CountPage() {
             <h1 className="text=center text-5xl">{count}</h1>
         </div>
         <div className="flex justify-center ml-5">
-            <button className="p-8 text-2xl bg-purple-400 rounded-lg cursor-pointer" onClick={() => setCount(count + 1)}>เพิ่ม</button>
+            <button className="p-8 text-2xl bg-blue-400 rounded-lg cursor-pointer" onClick={() => setCount(count + 1)}>เพิ่ม</button>
         </div>
         <div className="flex justify-center ml-5 p-5">
-            <button className="p-8 text-2xl bg-pink-400 rounded-lg cursor-pointer" onClick={() => setCount(count - 1)}>ลด</button>
+            <button className="p-8 text-2xl bg-red-400 rounded-lg cursor-pointer" onClick={() => setCount(count - 1)}>ลด</button>
         </div>
     </div>
 }
